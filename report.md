@@ -96,7 +96,7 @@ Use **0** only for demonstrated absence, **U** for unknown, and 2/4 for intermed
 
 ### Founder comparison scores
 
-These assess the best-supported business mechanism in each case, not character, net worth, all products, or current investment value. Trust is unscored for cross-founder comparability; only 95% of the rubric is covered. Bands include the possible 0–5 trust score. The case studies that follow provide the evidence and counterevidence.
+These assess the stated product or portfolio scope in each row, not character, net worth, or current investment value. Portfolio scores consider both established products and failures; single-product scores have a narrower scope. Trust is unscored for cross-founder comparability; 95% of the rubric is covered except Teleprompter, where unknown economics reduce coverage to 80%. Bands include the possible 0–5 trust score. The case studies that follow provide the evidence and counterevidence.
 
 | Founder / assessed business | D | A | V | R | E | M | T | Score band /100 | Confidence |
 |---|---:|---:|---:|---:|---:|---:|---|---|---|
@@ -109,7 +109,7 @@ These assess the best-supported business mechanism in each case, not character, 
 
 For Teleprompter the band spans both economic and trust unknowns. Photopea's higher analytical band is the key correction to a narrow Levels imitation: persistent usefulness and compatibility can outweigh a rapid portfolio strategy. **It is not proof that Kutskir is richer or currently earns more.** Levels remains the strongest case here for a portfolio supported by founder distribution; Photopea is the strongest challenge to requiring that structure.
 
-Scoring rationale: Levels receives high acquisition/demand scores from multiple sustained offers and documented launches, but less-than-maximum activation/retention/economics due to product failures, uncertain cohorts, and model differences. Lou's lower recurrence score reflects a mix of one-time products and disclosed churn. Welsh's high economic score reflects claimed margins on education, with a lower recurrence score because cumulative sales do not establish repeat buyers. Inkdrop's durable specialized use supports R/M, while acknowledged growth decline restrains A/E. Teleprompter's concrete task and usage claims support D/R, but revenue is U. Photopea's repeated editing use, compatibility and advertising history support V/R/M; no current audited costs justify E=5. These judgments should change when better evidence arrives.
+Scoring rationale: Levels receives high acquisition/demand scores from multiple sustained offers and documented launches, but less-than-maximum activation/retention/economics due to product failures, uncertain cohorts, and model differences. Lou's lower recurrence score reflects a mix of one-time products and disclosed churn. Welsh's high economic score reflects claimed margins on education, with a lower recurrence score because cumulative sales do not establish repeat buyers. Inkdrop's durable specialized use supports R/M, while acknowledged growth decline restrains A/E. Teleprompter's concrete task and usage claims support D/R, but revenue is U. Photopea's editing utility, aggregate usage, compatibility and advertising history support V/R/M; its repeat-use score is an inference, because cohort retention was unavailable; no current audited costs justify E=5. These judgments should change when better evidence arrives.
 
 ## MAKE: what remains useful, what needs updating
 
