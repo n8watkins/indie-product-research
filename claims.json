@@ -1,0 +1,146 @@
+[
+  {
+    "id": "L-fin-2023",
+    "claim": "Photo AI reported $61,808/month and 1,872 paying customers",
+    "date_or_period": "2023-07-03",
+    "sources": "L06",
+    "evidence_grade": "B",
+    "limitation": "Historical founder statement; no audited retention"
+  },
+  {
+    "id": "L-peak-2024",
+    "claim": "Portfolio $420K/month headline was a short publicity-associated peak",
+    "date_or_period": "2024-09-22",
+    "sources": "L07",
+    "evidence_grade": "B",
+    "limitation": "Not sustainable ARR; founder says it fell"
+  },
+  {
+    "id": "L-photo-2026",
+    "claim": "Photo AI reported $105K/month revenue, $80K/month profit",
+    "date_or_period": "2026-03-06",
+    "sources": "L08",
+    "evidence_grade": "B",
+    "limitation": "Profit definition and founder labor not audited"
+  },
+  {
+    "id": "L-portfolio-2026",
+    "claim": "Business revenue about $200K–$250K/month; $10M headline includes investment gains",
+    "date_or_period": "2026-09-23",
+    "sources": "L09",
+    "evidence_grade": "B",
+    "limitation": "Exclude unrealized investment gains from app revenue"
+  },
+  {
+    "id": "L-cost-2026",
+    "claim": "Headline $300/month excludes Photo AI GPU/storage; inclusive claim roughly $8K",
+    "date_or_period": "2026-11-03",
+    "sources": "L10",
+    "evidence_grade": "B",
+    "limitation": "Not an all-in independently audited P&L; credits involved"
+  },
+  {
+    "id": "L-failures",
+    "claim": "Register has 9 success, 11 okay, 20 failed, 70 noncommercial, 5 new",
+    "date_or_period": "2026-11-03",
+    "sources": "L05",
+    "evidence_grade": "B",
+    "limitation": "Mixed denominator; not startup success probability"
+  },
+  {
+    "id": "L-nomads",
+    "claim": "September nearly-free announcement includes $1 anti-spam signup; current homepage says free",
+    "date_or_period": "2026-09-05 / snapshot",
+    "sources": "L13, PR08",
+    "evidence_grade": "A/B",
+    "limitation": "Actual checkout not tested"
+  },
+  {
+    "id": "C-marc",
+    "claim": "Marc Lou reported $1.032M portfolio revenue for 2025",
+    "date_or_period": "2025",
+    "sources": "C02",
+    "evidence_grade": "B",
+    "limitation": "Not current MRR or consumer-only revenue"
+  },
+  {
+    "id": "C-welsh",
+    "claim": "Justin Welsh reported $10M cumulative revenue by May 2025",
+    "date_or_period": "2025-06-07 disclosure",
+    "sources": "C03",
+    "evidence_grade": "B",
+    "limitation": "Not annual app revenue"
+  },
+  {
+    "id": "C-inkdrop",
+    "claim": "Founder reports declining 2025 revenue and audience mismatch",
+    "date_or_period": "2025 retrospective",
+    "sources": "C09",
+    "evidence_grade": "B",
+    "limitation": "Cause not experimentally isolated"
+  },
+  {
+    "id": "C-teleprompter",
+    "claim": "Company says 16-person team, 5M downloads and 200K+ monthly users",
+    "date_or_period": "Current snapshot",
+    "sources": "C05",
+    "evidence_grade": "B",
+    "limitation": "No comparable current revenue verified"
+  },
+  {
+    "id": "C-photopea",
+    "claim": "Indexed founder interview reports $3M revenue in 2024",
+    "date_or_period": "2024",
+    "sources": "C06",
+    "evidence_grade": "C",
+    "limitation": "Full page unavailable; older direct interview corroborates business model, not this amount"
+  },
+  {
+    "id": "PR-photo",
+    "claim": "Photo AI Trustpilot 2.2/5 from 91 reviews",
+    "date_or_period": "Snapshot",
+    "sources": "PR03",
+    "evidence_grade": "C",
+    "limitation": "Selection bias; not overall customer satisfaction"
+  },
+  {
+    "id": "PR-interior",
+    "claim": "InteriorAI G2 4.6/5 six versus Trustpilot 2.1/5 eleven",
+    "date_or_period": "Snapshot",
+    "sources": "PR05, PR06",
+    "evidence_grade": "C",
+    "limitation": "Different samples; some incentivized; cannot average meaningfully"
+  },
+  {
+    "id": "P-cutely",
+    "claim": "Home-page source has a brief description and two CTAs, no example demo",
+    "date_or_period": "Snapshot",
+    "sources": "https://github.com/n8watkins/cutelyaskme/blob/main/src/app/page.tsx",
+    "evidence_grade": "A",
+    "limitation": "Source observation, not production user test"
+  },
+  {
+    "id": "P-solara",
+    "claim": "README describes billing and Pro push as built but undeployed",
+    "date_or_period": "Snapshot",
+    "sources": "https://github.com/n8watkins/solara/blob/main/README.md",
+    "evidence_grade": "A",
+    "limitation": "Repository statement may lag deployment"
+  },
+  {
+    "id": "P-openping",
+    "claim": "Hosted pricing constants $24/year and launch status depends deployment configuration",
+    "date_or_period": "Snapshot",
+    "sources": "https://github.com/n8watkins/open-ping/blob/main/src/shared/hosted-offer.ts",
+    "evidence_grade": "A",
+    "limitation": "Actual checkout/launch state not established"
+  },
+  {
+    "id": "R-primary",
+    "claim": "Prioritize Cutely as a consumer experiment; Open Ping as secondary professional pilot",
+    "date_or_period": "Proposed",
+    "sources": "Research synthesis",
+    "evidence_grade": "D",
+    "limitation": "Changes if existing traction or income priorities differ"
+  }
+]

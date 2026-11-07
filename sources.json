@@ -1,0 +1,544 @@
+[
+  {
+    "id": "C01",
+    "url": "https://readmake.com/",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "primary company/founder source",
+    "limitations": "Self-reported, selected, or commercial source; not audited",
+    "word_limit": 200,
+    "title": "MAKE visible public page and endorsement wall",
+    "aliases": [
+      "B01"
+    ]
+  },
+  {
+    "id": "C02",
+    "url": "https://marclou.com/p/i-made-1-032-000-in-2025",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "primary company/founder source",
+    "limitations": "Self-reported, selected, or commercial source; not audited",
+    "word_limit": 200,
+    "title": "i made 1 032 000 in 2025"
+  },
+  {
+    "id": "C03",
+    "url": "https://justinwelsh.me/essays/my-10m-journey",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "primary company/founder source",
+    "limitations": "Self-reported, selected, or commercial source; not audited",
+    "word_limit": 200,
+    "title": "my 10m journey"
+  },
+  {
+    "id": "C04",
+    "url": "https://www.devas.life/how-ive-attracted-the-first-500-paid-users-for-my-saas-that-costs-5-mo/",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "primary company/founder source",
+    "limitations": "Self-reported, selected, or commercial source; not audited",
+    "word_limit": 200,
+    "title": "how ive attracted the first 500 paid users for my saas that costs 5 mo"
+  },
+  {
+    "id": "C05",
+    "url": "https://www.teleprompter.com/about-us",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "primary company/founder source",
+    "limitations": "Self-reported, selected, or commercial source; not audited",
+    "word_limit": 200,
+    "title": "about us"
+  },
+  {
+    "id": "C06",
+    "url": "https://www.indiehackers.com/post/tech/making-3m-per-year-with-a-free-product-axW4u1vB6C8f91Z3Lxu5",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "founder interview indexed excerpt",
+    "limitations": "Full page did not load; search excerpt supports historical revenue claim",
+    "word_limit": 200,
+    "title": "making 3m per year with a free product axW4u1vB6C8f91Z3Lxu5"
+  },
+  {
+    "id": "C07",
+    "url": "https://marclou.com/",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "primary company/founder source",
+    "limitations": "Self-reported, selected, or commercial source; not audited",
+    "word_limit": 200,
+    "title": "marclou.com"
+  },
+  {
+    "id": "C08",
+    "url": "https://marclou.com/p/how-to-get-your-1st-customer-for-a-micro-saas",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "primary company/founder source",
+    "limitations": "Self-reported, selected, or commercial source; not audited",
+    "word_limit": 200,
+    "title": "how to get your 1st customer for a micro saas"
+  },
+  {
+    "id": "C09",
+    "url": "https://www.devas.life/my-2025-indie-dev-journey-review/",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "primary company/founder source",
+    "limitations": "Self-reported, selected, or commercial source; not audited",
+    "word_limit": 200,
+    "title": "my 2025 indie dev journey review"
+  },
+  {
+    "id": "C10",
+    "url": "https://www.devas.life/how-i-designed-my-saas-landing-page-with-ai-tools/",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "primary company/founder source",
+    "limitations": "Self-reported, selected, or commercial source; not audited",
+    "word_limit": 200,
+    "title": "how i designed my saas landing page with ai tools"
+  },
+  {
+    "id": "C11",
+    "url": "https://www.inkdrop.app/",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "primary company/founder source",
+    "limitations": "Self-reported, selected, or commercial source; not audited",
+    "word_limit": 200,
+    "title": "www.inkdrop.app"
+  },
+  {
+    "id": "C12",
+    "url": "https://speakerdeck.com/kmate25/1-dot-5-years-as-an-indie-ios-developer",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "primary company/founder source",
+    "limitations": "Self-reported, selected, or commercial source; not audited",
+    "word_limit": 200,
+    "title": "1 dot 5 years as an indie ios developer"
+  },
+  {
+    "id": "C13",
+    "url": "https://www.teleprompter.com/",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "primary company/founder source",
+    "limitations": "Self-reported, selected, or commercial source; not audited",
+    "word_limit": 200,
+    "title": "www.teleprompter.com"
+  },
+  {
+    "id": "C14",
+    "url": "https://blog.photopea.com/creating-photopea.html",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "primary company/founder source",
+    "limitations": "Self-reported, selected, or commercial source; not audited",
+    "word_limit": 200,
+    "title": "creating photopea"
+  },
+  {
+    "id": "C15",
+    "url": "https://www.failory.com/interview/photopea",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "primary company/founder source",
+    "limitations": "Self-reported, selected, or commercial source; not audited",
+    "word_limit": 200,
+    "title": "photopea"
+  },
+  {
+    "id": "C16",
+    "url": "https://www.photopea.com/",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "primary company/founder source",
+    "limitations": "Self-reported, selected, or commercial source; not audited",
+    "word_limit": 200,
+    "title": "www.photopea.com"
+  },
+  {
+    "id": "PR01",
+    "title": "Photo AI homepage and FAQ",
+    "url": "https://photoai.com/",
+    "type": "Official offering/policy",
+    "notes": "Refund eligibility, cancellation stated, outcome-led use cases",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "source_word_limit": 200
+  },
+  {
+    "id": "PR02",
+    "title": "Photo AI pricing",
+    "url": "https://photoai.com/pricing",
+    "type": "Official prices",
+    "notes": "Monthly $19/$49/$99/$199; 50/1000/3000/10000 credits",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "source_word_limit": 200
+  },
+  {
+    "id": "PR03",
+    "title": "Photo AI Trustpilot",
+    "url": "https://www.trustpilot.com/review/photoai.com",
+    "type": "Customer-review platform",
+    "notes": "2.2/5, 91 reviews; 13 last 12mo; mixed quality/support accounts",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "source_word_limit": 200
+  },
+  {
+    "id": "PR04",
+    "title": "Interior AI homepage",
+    "url": "https://interiorai.com/",
+    "type": "Official offering/policy/prices",
+    "notes": "$49/$99/$199 monthly; refund and cancellation FAQ inconsistency",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "source_word_limit": 200
+  },
+  {
+    "id": "PR05",
+    "title": "Interior AI Trustpilot",
+    "url": "https://www.trustpilot.com/review/interiorai.com",
+    "type": "Customer-review platform",
+    "notes": "2.1/5, 11 reviews; 6 last 12mo; uninvited and ambiguous customer product naming",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "source_word_limit": 200
+  },
+  {
+    "id": "PR06",
+    "title": "InteriorAI G2",
+    "url": "https://www.g2.com/products/interiorai/reviews",
+    "type": "Customer-review platform",
+    "notes": "4.6/5, six reviews; all Asia categorization; some incentivized",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "source_word_limit": 200
+  },
+  {
+    "id": "PR07",
+    "title": "Interior AI firsthand Reddit review",
+    "url": "https://www.reddit.com/r/SaaS/comments/1m6dp7x/interior_ai_by_levelsio_review_poor_product/",
+    "type": "Unverified firsthand account",
+    "notes": "Explicit Levels identification; bugs/support/refund complaint",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "source_word_limit": 200
+  },
+  {
+    "id": "PR08",
+    "title": "Nomads.com",
+    "url": "https://nomads.com/",
+    "type": "Official offering",
+    "notes": "Currently free community; 194 meetups/year claimed",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "source_word_limit": 200
+  },
+  {
+    "id": "PR09",
+    "title": "Nomad List Trustpilot",
+    "url": "https://www.trustpilot.com/review/nomadlist.com",
+    "type": "Historical customer-review profile",
+    "notes": "2.3/5 seven; none last 12mo",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "source_word_limit": 200
+  },
+  {
+    "id": "PR10",
+    "title": "Nomad List Product Hunt",
+    "url": "https://www.producthunt.com/products/nomadlist/reviews",
+    "type": "Customer-review platform",
+    "notes": "3.0/5 four; visible praise for organized data and criticism account support",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "source_word_limit": 200
+  },
+  {
+    "id": "PR11",
+    "title": "Remote OK employer page",
+    "url": "https://remoteok.com/post-a-job",
+    "type": "Official prices",
+    "notes": "$299 starting post, 30 days; talent $249/year",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "source_word_limit": 200
+  },
+  {
+    "id": "PR12",
+    "title": "Remote OK FAQ",
+    "url": "https://remoteok.com/faq",
+    "type": "Official policies",
+    "notes": "Auto renewal, 14 day renewal refund; seeker premium",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "source_word_limit": 200
+  },
+  {
+    "id": "PR13",
+    "title": "Remote OK Product Hunt",
+    "url": "https://www.producthunt.com/products/remotejobs/reviews",
+    "type": "AI summary of customer reviews",
+    "notes": "3.8/5 six; summary explicitly AI generated",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "source_word_limit": 200
+  },
+  {
+    "id": "PR14",
+    "title": "Remote OK G2",
+    "url": "https://www.g2.com/products/remote-ok/reviews",
+    "type": "AI summary of incentivized review",
+    "notes": "3.0/5 one dated 2024-09-03",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "source_word_limit": 200
+  },
+  {
+    "id": "PR15",
+    "title": "Hoodmaps live map",
+    "url": "https://hoodmaps.com/",
+    "type": "Official product",
+    "notes": "Crowdsourced neighborhood labels and votes",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "source_word_limit": 200
+  },
+  {
+    "id": "PR16",
+    "title": "Hoodmaps build history",
+    "url": "https://levels.io/hoodmaps",
+    "type": "Founder self-report",
+    "notes": "2017-07-26; 300k reach claim",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "source_word_limit": 200
+  },
+  {
+    "id": "PR17",
+    "title": "Hoodmaps Hacker News discussion",
+    "url": "https://news.ycombinator.com/item?id=41602519",
+    "type": "Public user discussion",
+    "notes": "2024-09-26 85 comments; usefulness/accuracy disagreement",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "source_word_limit": 200
+  },
+  {
+    "id": "PR18",
+    "title": "Hoodmaps legal",
+    "url": "https://hoodmaps.com/legal",
+    "type": "Official policy",
+    "notes": "Crowdsourced accuracy disclaimer",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "source_word_limit": 200
+  },
+  {
+    "id": "PR19",
+    "title": "Hoodmaps Product Hunt",
+    "url": "https://www.producthunt.com/products/hoodmaps",
+    "type": "Launch/review platform",
+    "notes": "No posted reviews; daily award July 2017",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "source_word_limit": 200
+  },
+  {
+    "id": "L01",
+    "title": "Twelve startups in twelve months",
+    "url": "https://levels.io/12-startups-12-months",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "Primary public source",
+    "limitations": "Self-report or official description; see report for claim-specific qualifications",
+    "published_or_period": "2014-03-01"
+  },
+  {
+    "id": "L02",
+    "title": "Nomad List launch and collaborative spreadsheet",
+    "url": "https://levels.io/product-hunt-hacker-news-number-one",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "Primary public source",
+    "limitations": "Self-report or official description; see report for claim-specific qualifications",
+    "published_or_period": "2014-08-16"
+  },
+  {
+    "id": "L03",
+    "title": "Remote OK launch account",
+    "url": "https://levels.io/remote-ok/",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "Primary public source",
+    "limitations": "Self-report or official description; see report for claim-specific qualifications",
+    "published_or_period": "2015-04-02"
+  },
+  {
+    "id": "L04",
+    "title": "Lex Fridman interview transcript",
+    "url": "https://lexfridman.com/pieter-levels-transcript/",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "Primary public source",
+    "limitations": "Self-report or official description; see report for claim-specific qualifications",
+    "published_or_period": "2024-08-20"
+  },
+  {
+    "id": "L05",
+    "title": "Levels project register",
+    "url": "https://levels.io/projects",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "Primary public source",
+    "limitations": "Self-report or official description; see report for claim-specific qualifications",
+    "published_or_period": "2026-11-03 update"
+  },
+  {
+    "id": "L06",
+    "title": "Photo AI 14,000 lines and revenue",
+    "url": "https://levels.io/photoai-14000-lines-raw-php-revenue",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "Primary public source",
+    "limitations": "Self-report or official description; see report for claim-specific qualifications",
+    "published_or_period": "2023-07-03"
+  },
+  {
+    "id": "L07",
+    "title": "Podcast-associated revenue peak",
+    "url": "https://levels.io/new-420k-mo-revenue-record-lex-fridman",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "Primary public source",
+    "limitations": "Self-report or official description; see report for claim-specific qualifications",
+    "published_or_period": "2024-09-22"
+  },
+  {
+    "id": "L08",
+    "title": "Photo AI product revenue and profit",
+    "url": "https://levels.io/photoai-40870-line-index-php-105k-mo-revenue",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "Primary public source",
+    "limitations": "Self-report or official description; see report for claim-specific qualifications",
+    "published_or_period": "2026-03-06"
+  },
+  {
+    "id": "L09",
+    "title": "Portfolio revenue and investment gains",
+    "url": "https://levels.io/passed-10m-revenue-investment-gains",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "Primary public source",
+    "limitations": "Self-report or official description; see report for claim-specific qualifications",
+    "published_or_period": "2026-09-23"
+  },
+  {
+    "id": "L10",
+    "title": "Infrastructure cost reductions",
+    "url": "https://levels.io/biz-expenses-dropped-to-300",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "Primary public source",
+    "limitations": "Self-report or official description; see report for claim-specific qualifications",
+    "published_or_period": "2026-11-03"
+  },
+  {
+    "id": "L11",
+    "title": "MVP workflow",
+    "url": "https://levels.io/how-i-build-my-minimum-viable-products",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "Primary public source",
+    "limitations": "Self-report or official description; see report for claim-specific qualifications",
+    "published_or_period": "2014-09-02"
+  },
+  {
+    "id": "L12",
+    "title": "Bootstrapped Founder interview",
+    "url": "https://levels.io/bootstrapped-founder-indie-hacking-is-dead",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "Primary public source",
+    "limitations": "Self-report or official description; see report for claim-specific qualifications",
+    "published_or_period": "2023-10-25"
+  },
+  {
+    "id": "L13",
+    "title": "Nomads membership model change",
+    "url": "https://levels.io/nomads-com-free-after-a-decade",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "Primary public source",
+    "limitations": "Self-report or official description; see report for claim-specific qualifications",
+    "published_or_period": "2026-09-05"
+  },
+  {
+    "id": "L14",
+    "title": "Scarce assets and defensibility",
+    "url": "https://levels.io/moats-left-data-network-capital",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "Primary public source",
+    "limitations": "Self-report or official description; see report for claim-specific qualifications",
+    "published_or_period": "2026-10-12"
+  },
+  {
+    "id": "S50",
+    "title": "C1",
+    "url": "https://github.com/n8watkins/cutelyaskme/blob/main/README.md",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "Repository evidence",
+    "limitations": "Implementation/documentation is not verified production behavior"
+  },
+  {
+    "id": "S51",
+    "title": "C2",
+    "url": "https://github.com/n8watkins/cutelyaskme/blob/main/src/app/page.tsx",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "Repository evidence",
+    "limitations": "Implementation/documentation is not verified production behavior"
+  },
+  {
+    "id": "S52",
+    "title": "C3",
+    "url": "https://github.com/n8watkins/cutelyaskme/blob/main/TODO.md",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "Repository evidence",
+    "limitations": "Implementation/documentation is not verified production behavior"
+  },
+  {
+    "id": "S53",
+    "title": "C4",
+    "url": "https://github.com/n8watkins/cutelyaskme/blob/main/docs/LAUNCH.md",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "Repository evidence",
+    "limitations": "Implementation/documentation is not verified production behavior"
+  },
+  {
+    "id": "S54",
+    "title": "S1",
+    "url": "https://github.com/n8watkins/solara/blob/main/README.md",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "Repository evidence",
+    "limitations": "Implementation/documentation is not verified production behavior"
+  },
+  {
+    "id": "S55",
+    "title": "S2",
+    "url": "https://github.com/n8watkins/solara/blob/main/docs/status.md",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "Repository evidence",
+    "limitations": "Implementation/documentation is not verified production behavior"
+  },
+  {
+    "id": "S56",
+    "title": "S3",
+    "url": "https://github.com/n8watkins/solara/blob/main/components/landing/Landing.tsx",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "Repository evidence",
+    "limitations": "Implementation/documentation is not verified production behavior"
+  },
+  {
+    "id": "S57",
+    "title": "O1",
+    "url": "https://github.com/n8watkins/open-ping/blob/main/README.md",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "Repository evidence",
+    "limitations": "Implementation/documentation is not verified production behavior"
+  },
+  {
+    "id": "S58",
+    "title": "O2",
+    "url": "https://github.com/n8watkins/open-ping/blob/main/src/shared/hosted-offer.ts",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "Repository evidence",
+    "limitations": "Implementation/documentation is not verified production behavior"
+  },
+  {
+    "id": "S59",
+    "title": "O3",
+    "url": "https://github.com/n8watkins/open-ping/blob/main/docs/HOSTED_PLAN.md",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "Repository evidence",
+    "limitations": "Internal economic assumptions, not invoices or verified contribution"
+  },
+  {
+    "id": "G01",
+    "title": "Google generative AI search optimization guide",
+    "url": "https://developers.google.com/search/docs/fundamentals/ai-optimization-guide",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "Primary public source",
+    "limitations": "Self-report or official description; see report for claim-specific qualifications",
+    "published_or_period": "Current documentation"
+  },
+  {
+    "id": "G02",
+    "title": "UptimeRobot free commercial plan",
+    "url": "https://help.uptimerobot.com/en/articles/11604710-who-should-use-uptimerobot-s-free-plan",
+    "accessed": "2026-11-06 America/Los_Angeles",
+    "type": "Primary public source",
+    "limitations": "Self-report or official description; see report for claim-specific qualifications",
+    "published_or_period": "2026-09-28"
+  }
+]

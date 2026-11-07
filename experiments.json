@@ -1,0 +1,52 @@
+[
+  {
+    "id": "cutely-demo",
+    "priority": "P0",
+    "hypothesis": "An experienced sample invite makes the promise understandable",
+    "segment": "Couples already planning a date",
+    "channel": "Permission-based introductions and demonstration",
+    "metric": "Uncoached invite completion",
+    "target": "Observe 5 of 10 recruited couples; 7/10 finish core task is a directional learning goal",
+    "cash_cap_usd": 0,
+    "decision": "Fix largest observed confusion before new features"
+  },
+  {
+    "id": "cutely-paid",
+    "priority": "P1",
+    "hypothesis": "A keepsake or occasion pack earns a one-time purchase",
+    "segment": "Couples who completed an invitation",
+    "offer": "Test $5 or $9 per occasion; no subscription assumption",
+    "metric": "Paid and fulfilled purchases, refunds, support minutes",
+    "target": "At least two real commitments before expanding; not proof of product-market fit",
+    "cash_cap_usd": 0,
+    "decision": "Change paid benefit if no willingness to pay"
+  },
+  {
+    "id": "openping-switch",
+    "priority": "P1",
+    "hypothesis": "Schedule-aware owned monitoring solves a switching-worthy problem",
+    "segment": "Five freelancers or agencies with intentionally sleeping endpoints",
+    "metric": "Kept real deployment after 7 days, delivered test alert, willingness to pay",
+    "cash_cap_usd": 0,
+    "decision": "Treat as internal/free tool if hosted convenience has no demand"
+  },
+  {
+    "id": "solara-recurrence",
+    "priority": "P1-alternative",
+    "hypothesis": "Users return to choose lower-UV outing windows",
+    "segment": "Ten regular outdoor walkers/runners",
+    "metric": "Three natural planning occasions and changed decisions",
+    "cash_cap_usd": 0,
+    "decision": "Do not expand paid features until repeated value appears"
+  },
+  {
+    "id": "paid-acquisition",
+    "priority": "P3-conditional",
+    "hypothesis": "Acquisition cost fits observed contribution",
+    "segment": "Best previously validated audience",
+    "metric": "Attributed paid contribution after refunds and support",
+    "cash_cap_usd": 100,
+    "authorized_spend": false,
+    "decision": "Only after working payments and observed conversion; small samples can be inconclusive"
+  }
+]
